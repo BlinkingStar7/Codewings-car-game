@@ -1,9 +1,9 @@
 # codewings car game
-pygame 필요
+python3, pygame 필요
 
 * run
   
-  `python pygame_car.py`
+  `python3 pygame_car.py`
  
 * AI 작성
 
